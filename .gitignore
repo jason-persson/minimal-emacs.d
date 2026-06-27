@@ -4,3 +4,7 @@
 !init.el
 !.github/
 !.LICENSE
+!jjp/
+!jjp/**
+*.elc
+!post-init.el
